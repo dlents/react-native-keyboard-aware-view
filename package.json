@@ -35,6 +35,6 @@
     "react-timer-mixin": "^0.13.3"
   },
   "peerDependencies": {
-    "react-native": "^0.25"
+    "react-native": "^0.26.2"
   }
 }

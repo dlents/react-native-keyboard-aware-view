@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VansonLeung/react-native-keyboard-aware-view.git"
+    "url": "git+https://github.com/dlents/react-native-keyboard-aware-view.git"
   },
   "tags": [
     "react",
@@ -32,10 +32,9 @@
   },
   "homepage": "https://github.com/VansonLeung/react-native-keyboard-aware-view#readme",
   "dependencies": {
-    "react-native": ">=0.13.0",
     "react-timer-mixin": "^0.13.3"
   },
   "peerDependencies": {
-    "react-native": ">=0.13.0"
+    "react-native": "^0.25"
   }
 }
